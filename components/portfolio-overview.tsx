@@ -1,6 +1,6 @@
 'use client'
 
-import { ArrowUpRight, ArrowDownRight, TrendingUp } from 'lucide-react'
+import { ArrowUpRight, TrendingUp } from 'lucide-react'
 import { Card } from '@/components/ui/card'
 
 export function PortfolioOverview() {
