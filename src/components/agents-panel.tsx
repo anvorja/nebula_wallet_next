@@ -1,8 +1,9 @@
+// src/components/agents-panel.tsx
 'use client'
 
-import { Card } from '@/components/ui/card'
+import { Card } from '@/src/components/ui/card'
 import { Shield, Target, Users, Play } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+import { Button } from '@/src/components/ui/button'
 
 const agents = [
   { icon: Shield, name: 'Risk Guardian', status: 'Active', color: 'text-primary' },

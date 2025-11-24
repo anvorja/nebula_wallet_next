@@ -1,7 +1,8 @@
+// src/components/top-nav.tsx
 'use client'
 
 import { Search, Bell, User } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+import { Button } from '@/src/components/ui/button'
 
 export function TopNav() {
   return (

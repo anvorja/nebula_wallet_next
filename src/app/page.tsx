@@ -1,5 +1,6 @@
-import { Dashboard } from '@/components/dashboard'
-import { BackgroundParticles } from '@/components/background-particles'
+// src/app/page.tsx
+import { Dashboard } from '@/src/components/dashboard'
+import { BackgroundParticles } from '@/src/components/background-particles'
 
 export default function Home() {
   return (

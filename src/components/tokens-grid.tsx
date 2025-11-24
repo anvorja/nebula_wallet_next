@@ -1,6 +1,7 @@
+// src/components/tokens-grid.tsx
 'use client'
 
-import { Card } from '@/components/ui/card'
+import { Card } from '@/src/components/ui/card'
 import { ArrowUpRight, ArrowDownRight } from 'lucide-react'
 
 const tokens = [

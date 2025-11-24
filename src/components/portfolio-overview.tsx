@@ -1,7 +1,8 @@
+// src/components/portfolio-overview.tsx
 'use client'
 
 import { ArrowUpRight, TrendingUp } from 'lucide-react'
-import { Card } from '@/components/ui/card'
+import { Card } from '@/src/components/ui/card'
 
 export function PortfolioOverview() {
   return (

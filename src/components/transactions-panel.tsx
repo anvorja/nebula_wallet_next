@@ -1,6 +1,7 @@
+// src/components/transactions-panel.tsx
 'use client'
 
-import { Card } from '@/components/ui/card'
+import { Card } from '@/src/components/ui/card'
 import { ArrowUpRight, ArrowDownLeft } from 'lucide-react'
 
 const transactions = [

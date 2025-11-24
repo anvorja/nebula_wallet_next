@@ -1,7 +1,8 @@
+// src/components/shared/sidebar.tsx
 'use client'
 
 import { Wallet, Home, Zap, Users, Settings, Target, TrendingUp } from 'lucide-react'
-import { cn } from '@/lib/utils'
+import { cn } from '@/src/lib/utils'
 import { useState } from 'react'
 
 const navItems = [

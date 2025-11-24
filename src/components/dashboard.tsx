@@ -1,12 +1,13 @@
+// src/components/dashboard.tsx
 'use client'
 
-import { Sidebar } from '@/components/sidebar'
-import { TopNav } from '@/components/top-nav'
-import { PortfolioOverview } from '@/components/portfolio-overview'
-import { AIChat } from '@/components/ai-chat'
-import { TokensGrid } from '@/components/tokens-grid'
-import { AgentsPanel } from '@/components/agents-panel'
-import { TransactionsPanel } from '@/components/transactions-panel'
+import { Sidebar } from '@/src/components/shared/sidebar'
+import { TopNav } from '@/src/components/top-nav'
+import { PortfolioOverview } from '@/src/components/portfolio-overview'
+import { AIChat } from '@/src/components/ai-chat'
+import { TokensGrid } from '@/src/components/tokens-grid'
+import { AgentsPanel } from '@/src/components/agents-panel'
+import { TransactionsPanel } from '@/src/components/transactions-panel'
 
 export function Dashboard() {
   return (

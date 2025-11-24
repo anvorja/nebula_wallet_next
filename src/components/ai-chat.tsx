@@ -1,6 +1,7 @@
+// src/components/ai-chat.tsx
 'use client'
 
-import { Card } from '@/components/ui/card'
+import { Card } from '@/src/components/ui/card'
 import { Send, Sparkles } from 'lucide-react'
 import { useState } from 'react'
 
